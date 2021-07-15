@@ -1,6 +1,6 @@
-[TOC]
-
 # VSCode 个人使用插件以及主题推荐
+
+[TOC]
 
 ## 前置操作
 
@@ -31,6 +31,14 @@ ID: yzhang.markdown-all-in-one
 版本: 3.4.0
 发布者: Yu Zhang
 VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one>
+
+### 名称: Markdown Preview Enhanced
+
+ID: shd101wyy.markdown-preview-enhanced
+说明: Markdown Preview Enhanced ported to vscode
+版本: 0.5.22
+发布者: Yiyi Wang
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced>
 
 ### 名称: markdownlint
 
