@@ -194,6 +194,28 @@ VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=octr
 
 ## 必备主题
 
+---
+
+2021 年 7 月 16 日 09:52:26
+
+### 名称: vscode-icons
+
+ID: vscode-icons-team.vscode-icons
+说明: Icons for Visual Studio Code
+版本: 11.5.0
+发布者: VSCode Icons Team
+VS Marketplace 链接: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+
+### 名称: Shades of Purple
+
+ID: ahmadawais.shades-of-purple
+说明: 🦄 A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace. Part of VSCode.pro course.
+版本: 6.13.0
+发布者: Ahmad Awais ⚡
+VS Marketplace 链接: https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple
+
+---
+
 ### 名称: Winter is Coming Theme
 
 ID: johnpapa.winteriscoming
