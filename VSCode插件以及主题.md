@@ -24,6 +24,20 @@
 
 ## 必备插件
 
+---
+
+2021 年 7 月 17 日更新
+
+### 名称: Thunder Client
+
+ID: rangav.vscode-thunder-client
+说明: Rest API Client for VS Code, GUI based Http Client
+版本: 1.7.1
+发布者: Ranga Vadhineni
+VS Marketplace 链接: https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
+
+---
+
 ### 名称: Markdown All in One
 
 ID: yzhang.markdown-all-in-one
