@@ -26,7 +26,99 @@
 
 ---
 
-2021 年 7 月 17 日更新
+2021 年 8 月 2 日更新
+
+### 名称: Code Spell Checker
+
+ID: streetsidesoftware.code-spell-checker
+说明: Spelling checker for source code
+版本: 1.10.2
+发布者: Street Side Software
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker>
+
+#### 评论
+
+看到了这个插件，装的人还比较多，尝试一下。不过好像中国人不太适用，这个是帮助文字类似英文的编程人员使用的，去分辨易错字。
+
+### 名称: indent-rainbow
+
+ID: oderwat.indent-rainbow
+说明: Makes indentation easier to read
+版本: 7.5.0
+发布者: oderwat
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow>
+
+#### 评论
+
+这个东西不错，可以帮助我更好的区分缩进，尤其是在`python`这种缩进敏感的语言中
+
+### 名称: Import Cost
+
+ID: wix.vscode-import-cost
+说明: Display import/require package size in the editor
+版本: 2.15.0
+发布者: Wix
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost>
+
+#### 评论
+
+查看引入的包大小，优化项目体积
+
+### 名称: Bracket Pair Colorizer
+
+ID: coenraads.bracket-pair-colorizer
+说明: A customizable extension for colorizing matching brackets
+版本: 1.0.61
+发布者: CoenraadS
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer>
+
+#### 评论
+
+给花括号上颜色，方便观察
+
+### 名称: Python Preview
+
+ID: dongli.python-preview
+说明: Provide Preview for Python Execution.
+版本: 0.0.4
+发布者: dongli
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=dongli.python-preview>
+
+#### 评论
+
+使用方法看插件详情，可以预览代码以及其逻辑。但我在自己项目中用了一下发现有些时候是不支持的，不知道是不是我自己的项目写法有问题。
+
+### 名称: AREPL for python
+
+ID: almenon.arepl
+说明: real-time python scratchpad
+版本: 2.0.3
+发布者: Almenon
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=almenon.arepl>
+
+#### 评论
+
+打开窗口之后可以实时发现 `Python` 的错误用法，没长期使用过。不过看似还不错
+
+### 名称: Better Comments
+
+ID: aaron-bond.better-comments
+说明: Improve your code commenting by annotating with alert, informational, TODOs, and more!
+版本: 2.1.0
+发布者: Aaron Bond
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments>
+
+### 名称: Python Docstring Generator
+
+ID: njpwerner.autodocstring
+说明: Automatically generates detailed docstrings for python functions
+版本: 0.5.4
+发布者: Nils Werner
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring>
+
+---
+
+2021 年 7 月 17 日更新
 
 ### 名称: Thunder Client
 
@@ -34,7 +126,7 @@ ID: rangav.vscode-thunder-client
 说明: Rest API Client for VS Code, GUI based Http Client
 版本: 1.7.1
 发布者: Ranga Vadhineni
-VS Marketplace 链接: https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client>
 
 ---
 
@@ -218,7 +310,7 @@ ID: vscode-icons-team.vscode-icons
 说明: Icons for Visual Studio Code
 版本: 11.5.0
 发布者: VSCode Icons Team
-VS Marketplace 链接: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons>
 
 ### 名称: Shades of Purple
 
@@ -226,7 +318,7 @@ ID: ahmadawais.shades-of-purple
 说明: 🦄 A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace. Part of VSCode.pro course.
 版本: 6.13.0
 发布者: Ahmad Awais ⚡
-VS Marketplace 链接: https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple
+VS Marketplace 链接: <https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple>
 
 ---
 
